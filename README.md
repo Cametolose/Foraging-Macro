@@ -1,4 +1,4 @@
-# 🌲 Foraging Macro (ChatTriggers)
+# 🌲 Foraging Macro 
 
 A custom **Foraging Macro** for Hypixel SkyBlock, built using [ChatTriggers](https://chattriggers.com/).  
 This module automates specifically **Island Foraging**.
