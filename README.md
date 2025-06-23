@@ -8,7 +8,7 @@ This module automates specifically **Island Foraging**.
 ## ⚠️ Disclaimer
 
 > **Use at your own risk!**  
-> Macros are against Hypixel's rules. Using this script can lead to a ban or other punishments.  
+> Macros are against Hypixel's rules. Using this macro can lead to a ban or other punishments.  
 > I am not responsible for any consequences that may result from using this macro.
 
 ---
