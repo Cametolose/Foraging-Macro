@@ -1,0 +1,7 @@
+{
+  "name": "Foraging Macro",
+  "creator": "Cametolose",
+  "description": "Automatic Island Foraging!",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
