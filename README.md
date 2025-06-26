@@ -7,6 +7,8 @@ This module specifically automates **Island Foraging**.
 
 ## ⚠️ Disclaimer
 
+> **Island foraging does no longer work since the new Foraging update!**
+
 > **Use at your own risk!**  
 > Macros are against Hypixel's rules. Using this macro can lead to a ban or other punishments.  
 > I am not responsible for any consequences that may result from using this macro.
@@ -43,15 +45,6 @@ This module specifically automates **Island Foraging**.
 
 This macro is **not safe to use** on the Hypixel network.  
 It is meant for **educational purposes only** and should **not** be used on public servers.
-
----
-
-## 🛠️ Todo
-
-- [ ] Add GUI for easier configuration
-- [ ] Add basic failsafes
-- [ ] Add detection of pet details
-- [ ] Add stats like XP/h
 
 ---
 
