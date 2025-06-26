@@ -1,7 +1,7 @@
 # 🌲 Foraging Macro 
 
 A custom **Foraging Macro** for Hypixel SkyBlock, built using [ChatTriggers](https://chattriggers.com/).  
-This module automates specifically **Island Foraging**.
+This module specifically automates **Island Foraging**.
 
 ---
 
@@ -24,10 +24,11 @@ This module automates specifically **Island Foraging**.
 ## 💾 Installation
 
 1. Download and install ChatTriggers.
-2. Place the `Foraging` folder in your `.minecraft\config\ChatTriggers\modules` folder.
-3. Launch Minecraft and run `/ct load`.
-4. Configure the macro as needed (Set keybinds in Minecraft settings).
-5. Start the macro (Default: Start Foraging: P | Toggle Autopet (Rod): O).
+2. Download and extract the `Foraging-Macro.zip` file.
+3. Place the `Foraging` folder in your `.minecraft\config\ChatTriggers\modules` folder.
+4. Launch Minecraft and run `/ct load`.
+5. Configure the macro as needed (Set keybinds in Minecraft settings).
+6. Start the macro (Default: Start Foraging: P | Toggle Autopet (Rod): O).
 
 ---
 
@@ -49,9 +50,8 @@ It is meant for **educational purposes only** and should **not** be used on publ
 
 - [ ] Add GUI for easier configuration
 - [ ] Add basic failsafes
-- [ ] Add detection for Pet
+- [ ] Add detection of pet details
 - [ ] Add stats like XP/h
-- [ ] Improve speed
 
 ---
 
