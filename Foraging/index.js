@@ -94,15 +94,14 @@ function startForaging() {
             itemAmount = 0;
         }
         
-        ChatLib.chat(itemAmount);
+        
 
 
         if (item) {
             itemName = item.getItem().getRegistryName();
             
 
-            if (variants.some(v => itemName === `minecraft:${v}_axe`)) {
-                ChatLib.chat(itemAmount);
+            if (variants.some(v => itemName === `minecraft:${v}_axe`)) 
                 foundAxe = true;
                 slotAxe = i;
             } 
@@ -112,7 +111,7 @@ function startForaging() {
                 slotSapling = i;
             }
 
-            if (item.getName().includes("Bone Meal")) { // CHANGE THIS TO "Enchanted Bone Meal" !!!!! DON'T FORGET ------------------------------------ Vanilla testing -------------------------------------
+            if (item.getName().includes("Enchanted Bone Meal")) { // CHANGE THIS TO "Enchanted Bone Meal" !!!!! DON'T FORGET ------------------------------------ Vanilla testing ------------------------------------- I actually forgot until now smh
                 foundBonemeal = true;
                 slotBoneMeal = i;
             } 
